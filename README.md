@@ -12,11 +12,11 @@ provided.
 
 I have tried to make this project as simple to use as possible to minimize the
 distractions from doing the kata. Any suggestions on making this project easier
-to running, especially on Windows, will be very welcome.
+to run, especially on Windows, will be very welcome.
 
 You will need jruby, the JDK and rubygems.
 
-### Mac OS X
+### Mac OS X, Ubuntu and Linux.
 
 Macs come with the jdk, ruby and rubygems alredy installed. I recomend using
 [rvm](http://beginrescueend.com/). It will setup everything you need to run
@@ -39,6 +39,5 @@ With that done, install bundler and install all the needed gems.
     gem install bundler
     bundle install
 
-Now you are all set! All that remains is to run the tests using `rake`.
-
-
+Now you are all set! All that remains is to run the tests using `rake`. Fire up
+your editor and get cracking!
