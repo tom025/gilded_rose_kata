@@ -1,6 +1,6 @@
-# The Guided Rose Kata
+# The Gilded Rose Kata
 
-This is a jruby version of the Guild Rose kata, found [here](http://craftsmanship.drupalgardens.com/content/gilded-rose-kata).
+This is a jruby version of the Gilded Rose kata, found [here](http://craftsmanship.drupalgardens.com/content/gilded-rose-kata).
 The aim is to demonstrate a way of testing java classes using rspec.
 
 This is a legacy code kata, so the focus is on safely refactoring the already
