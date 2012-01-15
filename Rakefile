@@ -1,7 +1,7 @@
 require 'rake/javaextensiontask'
 require 'rspec/core/rake_task'
 
-Rake::JavaExtensionTask.new('hello_java')
+Rake::JavaExtensionTask.new('gilded_rose')
 
 RSpec::Core::RakeTask.new(:spec)
 
